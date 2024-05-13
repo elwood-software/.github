@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature request
+    url: https://github.com/orgs/elwood-software/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop
+    about: Request a new feature or example.
+  - name: Ask a question
+    url: https://github.com/orgs/elwood-software/discussions/category_choices
+    about: Ask questions and discuss with other community members.
